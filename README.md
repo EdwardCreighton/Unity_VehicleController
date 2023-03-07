@@ -8,4 +8,14 @@ Additional Packages:
 Unity Editor Version **2020.3.31f1**
 
 # Build
-Try Demo: https://drive.google.com/file/d/12m-_5rHqHLd9vTlSzQX-q0AsHe6bx1VF/view?usp=sharing
+Try Demo: https://drive.google.com/file/d/1an_KR0A1SvoTIB6r46QtbtfZQyS6cKfD/view?usp=sharing
+
+### Controls:
+
+WS - throttle and brakes
+
+AD - turn
+
+Space - handbrake
+
+G - change vahicle
